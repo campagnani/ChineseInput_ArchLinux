@@ -1,0 +1,1 @@
+# ChineseInput_ArchLinux
